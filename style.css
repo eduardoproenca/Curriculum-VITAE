@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(217, 236, 243);
+}
+
+h1 {
+    border: 2px solid rgb(0, 0, 0);
+    width: 19%;
+    margin-left: 40%;
+    background-color: #f5f5dc;
+}
+
+form {
+    margin: 0%;
+    padding: 0%;
+    border: 2px solid black;
+    width: 700px;
+    margin-left: 25%;
+    height: auto;
+    background-color: rgb(245, 225, 205);
+}
+
+.form1 {
+    margin-left: 2%;
+}
